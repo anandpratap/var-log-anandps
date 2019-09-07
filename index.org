@@ -1,6 +1,0 @@
-# Created 2019-09-07 Sat 14:45
-#+TITLE: THis is my blog
-#+AUTHOR: Anand Pratap Singh
-
-* [[file:notes.org][this is a post]]
-- just a text aa
