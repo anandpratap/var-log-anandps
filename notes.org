@@ -1,0 +1,11 @@
+# Created 2019-09-07 Sat 14:45
+#+TITLE: THis is a note
+#+AUTHOR: Anand Pratap Singh
+
+* This is a post
+#+BEGIN_SRC python
+  import gravity
+  class Test:
+      def __init__(self):
+          pass
+#+END_SRC
